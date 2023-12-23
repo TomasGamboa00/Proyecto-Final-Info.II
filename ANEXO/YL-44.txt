@@ -1,0 +1,1 @@
+The YL-44 is a small buzzer module which operates around the audible 2 kHz frequency range. It is an active buzzer, which means that it produces sound by itself, without needing an external frequency generator. Taking the I/O pin LOW will turn the buzzer ON and taking this pin HIGH will turn the buzzer OFF (as will leaving this pin OPEN). This device could be controlled by PWM.
